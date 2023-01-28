@@ -1,0 +1,702 @@
+[
+    {
+        "Id": "0",
+        "listNameEn": "plant",
+        "fileNameEn": "Banshee",
+        "listNameCh": "植物",
+        "fileNameCh": "报丧女妖"
+    },
+    {
+        "Id": "1",
+        "listNameEn": "plant",
+        "fileNameEn": "Brownie",
+        "listNameCh": "植物",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "2",
+        "listNameEn": "plant",
+        "fileNameEn": "Dolliv",
+        "listNameCh": "植物",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "3",
+        "listNameEn": "plant",
+        "fileNameEn": "Floragato",
+        "listNameCh": "植物",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "4",
+        "listNameEn": "plant",
+        "fileNameEn": "Fomantis",
+        "listNameCh": "植物",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "5",
+        "listNameEn": "plant",
+        "fileNameEn": "Pawmi",
+        "listNameCh": "植物",
+        "fileNameCh": "布玐"
+    },
+    {
+        "Id": "6",
+        "listNameEn": "plant",
+        "fileNameEn": "Smoliv",
+        "listNameCh": "植物",
+        "fileNameCh": "迷你芙"
+    },
+    {
+        "Id": "7",
+        "listNameEn": "plant",
+        "fileNameEn": "Xurkitree",
+        "listNameCh": "植物",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "8",
+        "listNameEn": "plant",
+        "fileNameEn": "Zarude",
+        "listNameCh": "植物",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "9",
+        "listNameEn": "wildmutt",
+        "fileNameEn": "Enamorus",
+        "listNameCh": "超能兽",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "10",
+        "listNameEn": "wildmutt",
+        "fileNameEn": "Fuecoco",
+        "listNameCh": "超能兽",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "11",
+        "listNameEn": "wildmutt",
+        "fileNameEn": "Skrelp",
+        "listNameCh": "超能兽",
+        "fileNameCh": "噗隆隆"
+    },
+    {
+        "Id": "12",
+        "listNameEn": "wildmutt",
+        "fileNameEn": "Stonjourner",
+        "listNameCh": "超能兽",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "13",
+        "listNameEn": "wildmutt",
+        "fileNameEn": "Therianthropy",
+        "listNameCh": "超能兽",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "14",
+        "listNameEn": "floor",
+        "fileNameEn": "Buzzwole",
+        "listNameCh": "地面",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "15",
+        "listNameEn": "floor",
+        "fileNameEn": "Ceruledge",
+        "listNameCh": "地面",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "16",
+        "listNameEn": "floor",
+        "fileNameEn": "Drizzile",
+        "listNameCh": "地面",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "17",
+        "listNameEn": "floor",
+        "fileNameEn": "Empusae",
+        "listNameCh": "地面",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "18",
+        "listNameEn": "floor",
+        "fileNameEn": "Faun",
+        "listNameCh": "地面",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "19",
+        "listNameEn": "floor",
+        "fileNameEn": "Gholdengo",
+        "listNameCh": "地面",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "20",
+        "listNameEn": "floor",
+        "fileNameEn": "Goomy",
+        "listNameCh": "地面",
+        "fileNameCh": "黏黏宝"
+    },
+    {
+        "Id": "21",
+        "listNameEn": "floor",
+        "fileNameEn": "Klawf",
+        "listNameCh": "地面",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "22",
+        "listNameEn": "floor",
+        "fileNameEn": "Ladon",
+        "listNameCh": "地面",
+        "fileNameCh": "拉东"
+    },
+    {
+        "Id": "23",
+        "listNameEn": "floor",
+        "fileNameEn": "Leanan Sidhe",
+        "listNameCh": "地面",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "24",
+        "listNameEn": "floor",
+        "fileNameEn": "Lilith",
+        "listNameCh": "地面",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "25",
+        "listNameEn": "floor",
+        "fileNameEn": "Lorelei",
+        "listNameCh": "地面",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "26",
+        "listNameEn": "floor",
+        "fileNameEn": "Lukwata",
+        "listNameCh": "地面",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "27",
+        "listNameEn": "floor",
+        "fileNameEn": "Lycanroc",
+        "listNameCh": "地面",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "28",
+        "listNameEn": "floor",
+        "fileNameEn": "Makara",
+        "listNameCh": "地面",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "29",
+        "listNameEn": "floor",
+        "fileNameEn": "Merrow",
+        "listNameCh": "地面",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "30",
+        "listNameEn": "floor",
+        "fileNameEn": "Migo",
+        "listNameCh": "地面",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "31",
+        "listNameEn": "floor",
+        "fileNameEn": "Mudbray",
+        "listNameCh": "地面",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "32",
+        "listNameEn": "floor",
+        "fileNameEn": "Myrmecoleon",
+        "listNameCh": "地面",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "33",
+        "listNameEn": "floor",
+        "fileNameEn": "Nymph",
+        "listNameCh": "地面",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "34",
+        "listNameEn": "floor",
+        "fileNameEn": "Palafincow",
+        "listNameCh": "地面",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "35",
+        "listNameEn": "floor",
+        "fileNameEn": "Puck",
+        "listNameCh": "地面",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "36",
+        "listNameEn": "floor",
+        "fileNameEn": "Rellor",
+        "listNameCh": "地面",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "37",
+        "listNameEn": "floor",
+        "fileNameEn": "Rellorsheep",
+        "listNameCh": "地面",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "38",
+        "listNameEn": "floor",
+        "fileNameEn": "Thwackey",
+        "listNameCh": "地面",
+        "fileNameCh": "啪咚猴"
+    },
+    {
+        "Id": "39",
+        "listNameEn": "floor",
+        "fileNameEn": "Tinkatuff",
+        "listNameCh": "地面",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "40",
+        "listNameEn": "floor",
+        "fileNameEn": "Volcanion",
+        "listNameCh": "地面",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "41",
+        "listNameEn": "floor",
+        "fileNameEn": "Yveltal",
+        "listNameCh": "地面",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "42",
+        "listNameEn": "electric",
+        "fileNameEn": "evavroom",
+        "listNameCh": "电",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "43",
+        "listNameEn": "electric",
+        "fileNameEn": "Grafaiai",
+        "listNameCh": "电",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "44",
+        "listNameEn": "electric",
+        "fileNameEn": "Iron Hands",
+        "listNameCh": "电",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "45",
+        "listNameEn": "electric",
+        "fileNameEn": "Nacli",
+        "listNameCh": "电",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "46",
+        "listNameEn": "electric",
+        "fileNameEn": "Oinkologne",
+        "listNameCh": "电",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "47",
+        "listNameEn": "electric",
+        "fileNameEn": "Shroodle",
+        "listNameCh": "电",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "48",
+        "listNameEn": "electric",
+        "fileNameEn": "Varoom",
+        "listNameCh": "电",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "49",
+        "listNameEn": "poison",
+        "fileNameEn": "Mimikyu",
+        "listNameCh": "毒",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "50",
+        "listNameEn": "poison",
+        "fileNameEn": "Nihilego",
+        "listNameCh": "毒",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "51",
+        "listNameEn": "poison",
+        "fileNameEn": "Poipole",
+        "listNameCh": "毒",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "52",
+        "listNameEn": "poison",
+        "fileNameEn": "Sandygast",
+        "listNameCh": "毒",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "53",
+        "listNameEn": "poison",
+        "fileNameEn": "The Fly",
+        "listNameCh": "毒",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "54",
+        "listNameEn": "fire",
+        "fileNameEn": "Firebird",
+        "listNameCh": "火",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "55",
+        "listNameEn": "fire",
+        "fileNameEn": "Muspell",
+        "listNameCh": "火",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "56",
+        "listNameEn": "fire",
+        "fileNameEn": "Scylla",
+        "listNameCh": "火",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "57",
+        "listNameEn": "fire",
+        "fileNameEn": "Shadow people",
+        "listNameCh": "火",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "58",
+        "listNameEn": "fire",
+        "fileNameEn": "Succubus",
+        "listNameCh": "火",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "59",
+        "listNameEn": "air",
+        "fileNameEn": "Chonchon",
+        "listNameCh": "空气",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "60",
+        "listNameEn": "air",
+        "fileNameEn": "Cramorant",
+        "listNameCh": "空气",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "61",
+        "listNameEn": "air",
+        "fileNameEn": "Harpy",
+        "listNameCh": "空气",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "62",
+        "listNameEn": "air",
+        "fileNameEn": "Humanoid",
+        "listNameCh": "空气",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "63",
+        "listNameEn": "air",
+        "fileNameEn": "Marshadow",
+        "listNameCh": "空气",
+        "fileNameCh": "玛夏多·蝠蝠"
+    },
+    {
+        "Id": "64",
+        "listNameEn": "air",
+        "fileNameEn": "Muryans",
+        "listNameCh": "空气",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "65",
+        "listNameEn": "air",
+        "fileNameEn": "Nihilego",
+        "listNameCh": "空气",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "66",
+        "listNameEn": "air",
+        "fileNameEn": "Phoenix",
+        "listNameCh": "空气",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "67",
+        "listNameEn": "air",
+        "fileNameEn": "Simurgh",
+        "listNameCh": "空气",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "68",
+        "listNameEn": "air",
+        "fileNameEn": "Stymphalian Birds",
+        "listNameCh": "空气",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "69",
+        "listNameEn": "air",
+        "fileNameEn": "Thunderbird",
+        "listNameCh": "空气",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "70",
+        "listNameEn": "air",
+        "fileNameEn": "Ziz",
+        "listNameCh": "空气",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "71",
+        "listNameEn": "air",
+        "fileNameEn": "Zu",
+        "listNameCh": "空气",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "72",
+        "listNameEn": "dragon",
+        "fileNameEn": "Appletun",
+        "listNameCh": "龙",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "73",
+        "listNameEn": "dragon",
+        "fileNameEn": "Baxcalibu",
+        "listNameCh": "龙",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "74",
+        "listNameEn": "dragon",
+        "fileNameEn": "Drampa",
+        "listNameCh": "龙",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "75",
+        "listNameEn": "dragon",
+        "fileNameEn": "Flapple",
+        "listNameCh": "龙",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "76",
+        "listNameEn": "dragon",
+        "fileNameEn": "Koraidon",
+        "listNameCh": "龙",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "77",
+        "listNameEn": "dragon",
+        "fileNameEn": "Pyrausta",
+        "listNameCh": "龙",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "78",
+        "listNameEn": "water",
+        "fileNameEn": "Bruxish",
+        "listNameCh": "水",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "79",
+        "listNameEn": "water",
+        "fileNameEn": "Chi-Yu",
+        "listNameCh": "水",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "80",
+        "listNameEn": "water",
+        "fileNameEn": "Devil Whale",
+        "listNameCh": "水",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "81",
+        "listNameEn": "water",
+        "fileNameEn": "Dudunsparce",
+        "listNameCh": "水",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "82",
+        "listNameEn": "water",
+        "fileNameEn": "Dwarf",
+        "listNameCh": "水",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "83",
+        "listNameEn": "water",
+        "fileNameEn": "Gill-man",
+        "listNameCh": "水",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "84",
+        "listNameEn": "water",
+        "fileNameEn": "Grendel",
+        "listNameCh": "水",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "85",
+        "listNameEn": "water",
+        "fileNameEn": "Iron Bundle",
+        "listNameCh": "水",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "86",
+        "listNameEn": "water",
+        "fileNameEn": "Neck",
+        "listNameCh": "水",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "87",
+        "listNameEn": "water",
+        "fileNameEn": "Nymph",
+        "listNameCh": "水",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "88",
+        "listNameEn": "ghost",
+        "fileNameEn": "Cosmog",
+        "listNameCh": "幽灵",
+        "fileNameCh": "莫古"
+    },
+    {
+        "Id": "89",
+        "listNameEn": "ghost",
+        "fileNameEn": "Lunala",
+        "listNameCh": "幽灵",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "90",
+        "listNameEn": "ghost",
+        "fileNameEn": "Medusa",
+        "listNameCh": "幽灵",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "91",
+        "listNameEn": "ghost",
+        "fileNameEn": "Python",
+        "listNameCh": "幽灵",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "92",
+        "listNameEn": "ghost",
+        "fileNameEn": "Quicksilver",
+        "listNameCh": "幽灵",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "93",
+        "listNameEn": "ghost",
+        "fileNameEn": "Rakshasa",
+        "listNameCh": "幽灵",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "94",
+        "listNameEn": "ghost",
+        "fileNameEn": "Satyr",
+        "listNameCh": "幽灵",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "95",
+        "listNameEn": "ghost",
+        "fileNameEn": "Ukobach",
+        "listNameCh": "幽灵",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "96",
+        "listNameEn": "ghost",
+        "fileNameEn": "Urisks",
+        "listNameCh": "幽灵",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "97",
+        "listNameEn": "ghost",
+        "fileNameEn": "Vodyanoy",
+        "listNameCh": "幽灵",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "98",
+        "listNameEn": "ghost",
+        "fileNameEn": "Xelhua",
+        "listNameCh": "幽灵",
+        "fileNameCh": ""
+    },
+    {
+        "Id": "99",
+        "listNameEn": "ghost",
+        "fileNameEn": "Zilant",
+        "listNameCh": "幽灵",
+        "fileNameCh": ""
+    }
+]
